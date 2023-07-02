@@ -14,9 +14,9 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ## Screenshots
 
-### Exercicio 1 (Médio) - []()
-**Código:** [ACESSO]()<br>
-![]()
+### Exercicio 1 (Médio) - [PartitionEqual](https://leetcode.com/problems/partition-equal-subset-sum/)
+**Código:** [ACESSO](PartitionEqual/PartitionEqual.py)<br>
+![PartitionIMG](Assets/Partition.png)
 
 ### Exercicio 2 (Médio) - []()
 **Código:** [ACESSO]()<br>
