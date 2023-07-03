@@ -18,9 +18,9 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 **Código:** [ACESSO](PartitionEqual/PartitionEqual.py)<br>
 ![PartitionIMG](Assets/Partition.png)
 
-### Exercicio 2 (Médio) - []()
-**Código:** [ACESSO]()<br>
-![]()
+### Exercicio 2 (Médio) - [EditDistance](https://leetcode.com/problems/edit-distance/)
+**Código:** [ACESSO](EditDistance/EditDistance.py)<br>
+![EditIMG](Assets/EditDist.png)
 
 ### Exercicio 3 (Díficil) - []()
 **Código:** [ACESSO]()<br>
