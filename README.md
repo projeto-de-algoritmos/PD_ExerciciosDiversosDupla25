@@ -26,16 +26,16 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 **Código:** [ACESSO](RussianDoll/RussianDoll.py)<br>
 ![RussianIMG](Assets/Russian.png)
 
-### Exercicio 4 (Médio) - []()
-**Código:** [ACESSO]()<br>
+### Exercicio 4 (Médio) - [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+**Código:** [ACESSO](CoinChange/CoinChange.py)<br>
 ![]()
 
-### Exercicio 5 (Médio) - []()
-**Código:** [ACESSO]()<br>
+### Exercicio 5 (Médio) - [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
+**Código:** [ACESSO](MaximumSumArray/MaximumSumArray.py)<br>
 ![]()
 
-### Exercicio 6 (Díficil) - []()
-**Código:** [ACESSO]()<br>
+### Exercicio 6 (Díficil) - [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
+**Código:** [ACESSO](MinimumJobSchedule/MinimumJobSchedule.py)<br>
 ![]()
 
 ## Vídeo
