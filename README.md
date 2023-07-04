@@ -22,9 +22,9 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 **Código:** [ACESSO](EditDistance/EditDistance.py)<br>
 ![EditIMG](Assets/EditDist.png)
 
-### Exercicio 3 (Díficil) - []()
-**Código:** [ACESSO]()<br>
-![]()
+### Exercicio 3 (Díficil) - [RussianDoll](https://leetcode.com/problems/russian-doll-envelopes/)
+**Código:** [ACESSO](RussianDoll/RussianDoll.py)<br>
+![RussianIMG](Assets/Russian.png)
 
 ### Exercicio 4 (Médio) - []()
 **Código:** [ACESSO]()<br>
