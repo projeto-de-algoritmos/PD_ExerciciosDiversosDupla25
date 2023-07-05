@@ -28,7 +28,7 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ### Exercicio 4 (Médio) - [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
 **Código:** [ACESSO](CoinChange/CoinChange.py)<br>
-![]()
+![CoinChangeIMG](Assets/coinchange-accepted.png)
 
 ### Exercicio 5 (Médio) - [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
 **Código:** [ACESSO](MaximumSumArray/MaximumSumArray.py)<br>
