@@ -1,14 +1,23 @@
 class Solution(object):
     def change(self, amount, coins):
-        # Memoization
-        # Inicializa vetor com zeros do tamanho da quantidade de valor que se deseja atingir
-        memoization = [0 for _ in range(amount + 1)]
-        memoization[0] = 1 # Valor zero = apenas uma solução (não escolher)
-        
-        for moeda in coins:
-            # Testa todas as combinações possíveis (não repete os cálculos já realizados)
-            for i in range(moeda, amount + 1):
-                # Inclui a moeda na combinação
-                memoization[i] += memoization[i - moeda]
-        
-        return memoization[amount]
+        n = len(coins)
+        # Criação da matriz inicial com as colunas sendo a quantidade de "amount" restantes 
+        # E as linhas sendo as "coins" analisadas
+        M = [[0] * (amount + 1) for _ in range(n + 1)]
+
+        # Toda a primeira coluna é igual a 1
+        for i in range(n + 1):
+            M[i][0] = 1
+
+        # Aplica uma base do Knapsack, só que ao invés de salvar valor, salva-se a quantidade de "soluções"
+        for i in range(1, n + 1):
+            for w in range(1, amount + 1):
+                # Inclui moeda atual
+                if w >= coins[i - 1]:
+                    M[i][w] = M[i - 1][w] + M[i][w - coins[i - 1]]
+                # Não inclui moeda atual
+                else:
+                    M[i][w] = M[i - 1][w]
+
+        # Retorna a quantidade de combinações possíveis para obter o "amount" desejado
+        return M[n][amount]
