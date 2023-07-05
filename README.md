@@ -32,7 +32,7 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ### Exercicio 5 (Médio) - [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
 **Código:** [ACESSO](MaximumSumArray/MaximumSumArray.py)<br>
-![]()
+![Maximum Absolute Sum of Any SubarrayIMG](Assets/maximumsumabs-accepted.png)
 
 ### Exercicio 6 (Díficil) - [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 **Código:** [ACESSO](MinimumJobSchedule/MinimumJobSchedule.py)<br>
