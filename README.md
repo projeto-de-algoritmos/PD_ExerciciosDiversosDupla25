@@ -40,7 +40,7 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ## Vídeo
 
-[Vídeo no YouTube]()
+[Vídeo no YouTube](https://www.youtube.com/watch?v=PEr1KDCqMJA)
 
 
 ## Instalação 
