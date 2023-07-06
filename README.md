@@ -34,8 +34,8 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 **Código:** [ACESSO](MaximumSumArray/MaximumSumArray.py)<br>
 ![Maximum Absolute Sum of Any SubarrayIMG](Assets/maximumsumabs-accepted.png)
 
-### Exercicio 6 (Díficil) - [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
-**Código:** [ACESSO](MinimumJobSchedule/MinimumJobSchedule.py)<br>
+### Exercicio 6 (Díficil) - [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)
+**Código:** [ACESSO](MinimumCost/MinimumCost.py)<br>
 ![]()
 
 ## Vídeo
