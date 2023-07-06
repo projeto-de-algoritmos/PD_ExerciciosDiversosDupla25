@@ -36,7 +36,7 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ### Exercicio 6 (Díficil) - [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)
 **Código:** [ACESSO](MinimumCost/MinimumCost.py)<br>
-![]()
+![MinimumCostIMG](Assets/minimumcost-accepted.png)
 
 ## Vídeo
 
