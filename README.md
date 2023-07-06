@@ -40,7 +40,17 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ## Vídeo
 
+para melhor visualização segue o link:
+
 [Vídeo no YouTube](https://www.youtube.com/watch?v=PEr1KDCqMJA)
+
+
+
+
+https://github.com/projeto-de-algoritmos/PD_ExerciciosDiversosDupla25/assets/78980842/f15b1081-3b07-4884-a1f8-3ee12b8098b9
+
+
+
 
 
 ## Instalação 
